@@ -1,1 +1,1 @@
-# Data-Science-MiniProject
+# Potato Disease Identification
